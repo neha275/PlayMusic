@@ -21,7 +21,7 @@ class MusicViewController: UIViewController {
         musicProgressView.progress = 0.0
         Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(updateAudioProgressView), userInfo: nil, repeats: true)
         do {
-            audioPlayer = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "TereJaisaTuHai", ofType: ".mp3")!))
+            audioPlayer = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "TriptotheEast", ofType: ".mp3")!))
             audioPlayer.prepareToPlay()
         }catch {
             print(error)

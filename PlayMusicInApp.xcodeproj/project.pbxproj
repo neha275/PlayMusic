@@ -13,7 +13,6 @@
 		BEA7560C211327E200A97B06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEA7560A211327E200A97B06 /* LaunchScreen.storyboard */; };
 		BEA756182113288300A97B06 /* MusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA756172113288300A97B06 /* MusicViewController.swift */; };
 		BEA7561B2113297800A97B06 /* TriptotheEast.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BEA7561A2113297800A97B06 /* TriptotheEast.mp3 */; };
-		BEC2242B211441DE00D789E7 /* TereJaisaTuHai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BEC2242A211441DE00D789E7 /* TereJaisaTuHai.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		BEA7560D211327E200A97B06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEA756172113288300A97B06 /* MusicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicViewController.swift; sourceTree = "<group>"; };
 		BEA7561A2113297800A97B06 /* TriptotheEast.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TriptotheEast.mp3; sourceTree = "<group>"; };
-		BEC2242A211441DE00D789E7 /* TereJaisaTuHai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TereJaisaTuHai.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 		BEA75619211328AA00A97B06 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				BEC2242A211441DE00D789E7 /* TereJaisaTuHai.mp3 */,
 				BEA7561A2113297800A97B06 /* TriptotheEast.mp3 */,
 			);
 			path = Resources;
@@ -170,7 +167,6 @@
 			files = (
 				BEA7560C211327E200A97B06 /* LaunchScreen.storyboard in Resources */,
 				BEA75609211327E200A97B06 /* Assets.xcassets in Resources */,
-				BEC2242B211441DE00D789E7 /* TereJaisaTuHai.mp3 in Resources */,
 				BEA75607211327CC00A97B06 /* Main.storyboard in Resources */,
 				BEA7561B2113297800A97B06 /* TriptotheEast.mp3 in Resources */,
 			);
